@@ -1,0 +1,13 @@
+/*
+ * OOP2(Java) Programming-B Project (0903)
+ * Student Number : 60102356
+ * Name : ¿°Ã¶¾ð
+ * Date : 2011. 5. 16(½ÃÀÛ)
+ */
+
+package User;
+
+
+public class Player2 extends User{
+
+}

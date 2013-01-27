@@ -1,0 +1,10 @@
+
+public class UnitB extends Unit{
+	public UnitB{
+		setUnitHp();
+		setUnitPower();
+		setUnitPosition();
+		unitList.add(this);
+		
+	}
+}
